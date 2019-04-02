@@ -1,0 +1,3 @@
+[submodule "src/YangModels"]
+	path = src/YangModels
+	url = https://github.com/YangModels/yang.git
